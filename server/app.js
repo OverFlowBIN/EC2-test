@@ -10,3 +10,5 @@ app.get('/', (req, res) => {
 app.listen(80, () => {
   console.log("server On")
 })
+
+// EC2 연결됨
